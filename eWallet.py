@@ -7,7 +7,10 @@ Realizado por Bryan Silva
 """
 """
 Vamos a crear una nueva rama de desarrollo y optimizar el código
+
+Utilizaremos POO
 """
+
 """IMPORTACIÓN DE MÓDULOS"""
 
 import os
