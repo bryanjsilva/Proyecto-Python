@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb  4 11:53:35 2021
-
-@author: Bryan José
-"""
-
 """
 Proyecto del curos Fundamentos de Programación en  Python - Next U
 
