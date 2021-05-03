@@ -2,7 +2,7 @@
 """
 Created on Thu Feb  4 11:53:35 2021
 
-@author: Bryan
+@author: Bryan José
 """
 
 """
