@@ -1,0 +1,13 @@
+{
+    "monedas": [
+        {
+            "transaccion": "Recibido",
+            "codigo": "0990",
+            "movimiento": "123",
+            "fecha": "Friday 26 February 2021 04:17:33 PM",
+            "nombre": "Binance Coin",
+            "cantidad": 123.0,
+            "saldo": 27532.996398747153
+        }
+    ]
+}
