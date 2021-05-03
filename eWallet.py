@@ -9,10 +9,7 @@ Realizado por Bryan Silva
 Este código se entregó, es la primera versión
 Vamos a crear una nueva rama de desarrollo y optimizar el código
 
-<<<<<<< HEAD
-=======
 En esta versión utilizaremos POO y funciones para limpiar el código
->>>>>>> development
 """
 
 """IMPORTACIÓN DE MÓDULOS"""
