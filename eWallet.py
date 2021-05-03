@@ -8,7 +8,7 @@ Realizado por Bryan Silva
 """
 Vamos a crear una nueva rama de desarrollo y optimizar el código
 
-Utilizaremos POO
+En esta versión utilizaremos POO y funciones para limpiar el código
 """
 
 """IMPORTACIÓN DE MÓDULOS"""
